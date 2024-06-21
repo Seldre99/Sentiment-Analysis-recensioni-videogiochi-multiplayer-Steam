@@ -8,4 +8,5 @@ I dataset utilizzati per lo sviluppo del progetto sono stati i seguenti:
 -Steam Game Review Dataset (https://www.kaggle.com/datasets/arashnic/game-review-dataset/data)
 
 Il modello addestrato è stato distilbert-base-uncased, che ha classificato le recensioni come positive (1) o negative (0).
-Maggiori informazioni sul progetto e i risultati ottenuti sono presenti nella cartella /paper in cui è presenta il paper NLP-Sentiment Analysis.
+
+Maggiori informazioni sul progetto e i risultati ottenuti sono presenti nel paper NLP-Sentiment Analysis.
